@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ishan vohra
-- 👀 I’m interested in cybersecurity,ai-ml,ui/ux.
-- 🌱 I’m currently learning java,canva,c,figma.
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 
